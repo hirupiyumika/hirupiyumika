@@ -1,6 +1,26 @@
 ### Hi there 👋
 
 <!--
+```ts
+var dev = new Developer('Senali');
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+
+```
+-->
+
+<img align="left" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=senali-d&show_icons=true"/>
+
+
+## :fire: Let's work harder to build a beautiful :earth_americas:
+## :two_men_holding_hands: Together!
+
+<!--
 **hirupiyumika/hirupiyumika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
