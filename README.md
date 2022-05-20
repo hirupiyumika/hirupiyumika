@@ -2,7 +2,7 @@
 
 <!--
 ```ts
-var dev = new Developer('Senali');
+var dev = new Developer('Hiru');
 
 while(dev.isCoding())
 {
@@ -12,13 +12,15 @@ while(dev.isCoding())
 }
 
 ```
+
+## :fire: Let's work harder to build a beautiful :earth_americas:
+## :two_men_holding_hands: Together!
 -->
 
 <img align="left" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=hirupiyumika&show_icons=true"/>
 
 
-## :fire: Let's work harder to build a beautiful :earth_americas:
-## :two_men_holding_hands: Together!
+
 
 <!--
 **hirupiyumika/hirupiyumika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
